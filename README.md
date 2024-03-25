@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nithish Ravuvari</h1>
 
-A driven and aspiring AI & Machine Learning enthusiast, currently in the pre-final year pursuing a
-specialization in AI & ML. Proficient in analyzing data, developing predictive models using Python, and
-eager to apply theoretical expertise in practical solutions.
+<p align="center">A driven and aspiring AI & Machine Learning enthusiast, currently in the pre-final year pursuing a specialization in AI & ML. Proficient in analyzing data, developing predictive models using Python, and eager to apply theoretical expertise in practical solutions.</p>
 
-- 👨‍💻 All of my projects are available at [![jgithub](https://img.shields.io/badge/GitHub-Nithish-18171.svg?style=flat&logo=github)](https://github.com/nithishravuvari)
 
-- 📫 How to reach me **nitish.ravuvari71@gmail.com**
+- All of my projects are available at   [![jgithub](https://img.shields.io/badge/GitHub-Nithish_Ravuvari-18171.svg?style=flat&logo=github)](https://github.com/nithishravuvari)
+
+- How to reach me   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitish.ravuvari71@gmail.com)
+
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nithish ravuvari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithish ravuvari" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/nitish_ravuvari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nitish_ravuvari1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nithish_ravuvari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nithish_ravuvari" height="30" width="40" /></a>
-</p>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-ravuvari/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/NithishRavuvari/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nitish_ravuvari1)
 
 <h3 align="left">Languages and Tools:</h3>
 
