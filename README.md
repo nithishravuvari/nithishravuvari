@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nithish Ravuvari</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithishravuvari&label=Profile%20views&color=0e75b6&style=flat" alt="nithishravuvari" /> </p>
-
-
-- 🔭 I’m currently working on **Frontend and Data Analysis Projects.**
-
-- 🌱 I’m currently learning **React JS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nithishravuvari](https://github.com/nithishravuvari)
 
-- 💬 Ask me about **Python, MySQL, Web Development, AI & ML.**
 
 - 📫 How to reach me **nitish.ravuvari71@gmail.com**
 
