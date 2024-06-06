@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithish Ravuvari</h1>
 
-<p align="center">A driven and aspiring AI & Machine Learning enthusiast, currently in the pre-final year pursuing a specialization in AI & ML. Proficient in analyzing data, developing predictive models using Python, and eager to apply theoretical expertise in practical solutions.</p>
+<p align="center">A driven and aspiring AI & Machine Learning enthusiast, currently in the final year pursuing a specialization in AI & ML. Proficient in analyzing data, developing predictive models using Python, and eager to apply theoretical expertise in practical solutions.</p>
 
 
 - All of my projects are available at   [![jgithub](https://img.shields.io/badge/GitHub-Nithish_Ravuvari-18171.svg?style=flat&logo=github)](https://github.com/nithishravuvari)
