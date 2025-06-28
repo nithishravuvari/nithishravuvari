@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nithish Ravuvari</h1>
 
 <p align="left">
-I am a final-year Computer Science student at VIT Bhopal, specializing in Artificial Intelligence and Machine Learning. Currently interning at AMD, I am gaining hands-on experience in Machine Learning, Natural Language Processing, Automation, and System Validation. I enjoy coding, solving real-world problems, and exploring innovative technologies.
+I am a Computer Science graduate from VIT Bhopal, specializing in Artificial Intelligence and Machine Learning. I recently completed a 10-month internship at AMD, where I developed ML and GenAI solutions for log classification, model optimization, and automation pipelines. I enjoy coding, building intelligent systems, and solving real-world problems through innovative technologies.
 </p>
